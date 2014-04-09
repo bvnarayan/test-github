@@ -1,2 +1,6 @@
 We shoud use unicron nstead of webrick 
 mysql is also better than postgres
+
+should store session 
+
+
