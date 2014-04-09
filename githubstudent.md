@@ -1,7 +1,7 @@
 # Hello 
 My name is Github studen
 
-## Location 
+## Home Town 
 * San Francisco, CA 
 
 
