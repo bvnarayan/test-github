@@ -1,5 +1,5 @@
-# My first Git Project 
+# My first GitHub Project 
 
-## Future Work
+## TODO Work
 * Add License
 * Add Personal markdown file
